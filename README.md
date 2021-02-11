@@ -1,35 +1,23 @@
 ## Hiya <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
-<div style="display:inline-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats#customization">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
-  </a>
-  <br />
 
-  I'm trying making a 🤖.
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 190 Contributions in the Year 2021
+> 🏆 238 Contributions in the Year 2021
  > 
-> 📦 17.5 kB Used in Github's Storage 
+> 📦 20.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -45,13 +33,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
-Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Monday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+Tuesday      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
 Wednesday    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Friday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Thursday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Friday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
 Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
-Sunday       173 commits    ███████░░░░░░░░░░░░░░░░░░   27.81%
+Sunday       172 commits    ███████░░░░░░░░░░░░░░░░░░   27.65%
 
 ```
 
@@ -122,6 +110,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/VedantKhairnar">
     <img src="https://avatars.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
 </a>
+<a href="https://github.com/DenverCoder1">
+    <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
+</a>
 <a href="https://github.com/jamesgeorge007">
     <img src="https://avatars.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
 </a>
@@ -142,6 +133,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </a>
 <a href="https://github.com/BhuvaneshHingal">
     <img src="https://avatars.githubusercontent.com/u/58567847?u=e4a0232ccef2dd7f9a6aad395f4945d9b9e0002e&v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
+</a>
+<a href="https://github.com/Amisha-Mohapatra">
+    <img src="https://avatars.githubusercontent.com/u/68538660?u=35b3e3a15aa2903462e37a1be3c0f47adbea101d&v=4" alt="Amisha Mohapatra" width="60px" height="60px">
 </a>
 <a href="https://github.com/vivmost">
     <img src="https://avatars.githubusercontent.com/u/58110469?u=924559a3040e7ad0c16f3ce3e148644f6034ff35&v=4" alt="Vivek Singh" width="60px" height="60px">
